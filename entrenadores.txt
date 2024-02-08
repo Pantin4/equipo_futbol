@@ -2,3 +2,4 @@
 "Marcelino García Toral" 
 "Rubén Uría" 
 "Luis Aragones"
+"Entrenador nuevo"
